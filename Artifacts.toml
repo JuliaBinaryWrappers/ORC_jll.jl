@@ -1,0 +1,113 @@
+[[ORC]]
+arch = "aarch64"
+git-tree-sha1 = "5a7fc3aa5986b81ee832b4760c60199b4d911539"
+libc = "glibc"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "6f2c9dd892dc5ec733f5a220fa5ed3a56e41ffbae7b66f795fab831f085eb69c"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.aarch64-linux-gnu.tar.gz"
+[[ORC]]
+arch = "aarch64"
+git-tree-sha1 = "d6095dc5a09dca4fd35b8d7a826df9596f89de53"
+libc = "musl"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "61ecf55d12a1ca75b1702abba3f0153ac4b9e2c44f9d4a20a34ec3bb473142a9"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.aarch64-linux-musl.tar.gz"
+[[ORC]]
+arch = "armv7l"
+git-tree-sha1 = "8ec1b069b824d8006d3a1cebbc4bdb8f0474ee29"
+libc = "glibc"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "ddbe95d03509db5ac20b9719fe00d62825a489617d70afa2447a1ba8556f8182"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.armv7l-linux-gnueabihf.tar.gz"
+[[ORC]]
+arch = "armv7l"
+git-tree-sha1 = "33538801317100689cca11f32c5985b967ffb92d"
+libc = "musl"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "67de766aaa0d97b9d4b4ea1cc0ac51e5e90edb94e413aecf5f0cf7bab33a17b4"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.armv7l-linux-musleabihf.tar.gz"
+[[ORC]]
+arch = "i686"
+git-tree-sha1 = "adb00874aeeeff61a256ef3884549fb979b8944b"
+libc = "glibc"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "8a53d6e8bb43cd54270d6dd53492017ba3349626ca81472da034d28b39c04113"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.i686-linux-gnu.tar.gz"
+[[ORC]]
+arch = "i686"
+git-tree-sha1 = "84aa1236c293ec70474295973f76a197dfb621b3"
+libc = "musl"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "8ef5b15039494b3e61531d9e503ea941c748853ae5243bfa14e245f83bdbd5e2"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.i686-linux-musl.tar.gz"
+[[ORC]]
+arch = "i686"
+git-tree-sha1 = "9f87253bb5bc14d4db9514370cb4842b5e168e92"
+os = "windows"
+
+    [[ORC.download]]
+    sha256 = "1846f5181dd96d0e2b6ac0f2b182712302151c35c98c6fb26e6a5d2e9520f2fd"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.i686-w64-mingw32.tar.gz"
+[[ORC]]
+arch = "powerpc64le"
+git-tree-sha1 = "2c6fef2765cec873d01c68362db2bb0af435c09a"
+libc = "glibc"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "a5700223381b89db5818aa945e689a56cc93bc9efee233e16be0fdbecc951d5b"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.powerpc64le-linux-gnu.tar.gz"
+[[ORC]]
+arch = "x86_64"
+git-tree-sha1 = "479f72cd00aaf5c1fb72084551fe8c6bfd4ed31c"
+os = "macos"
+
+    [[ORC.download]]
+    sha256 = "742fd533ad43040ed9cd3758880b80480f6b44f4e87b3b94839ccd1624f75d9a"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.x86_64-apple-darwin14.tar.gz"
+[[ORC]]
+arch = "x86_64"
+git-tree-sha1 = "5e6ceafa7bd53e0e06de0e4352a238fb325decaa"
+libc = "glibc"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "785e0e49dc765acbe26f118eb66297f0765d43910245588140072ada66e1dec0"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.x86_64-linux-gnu.tar.gz"
+[[ORC]]
+arch = "x86_64"
+git-tree-sha1 = "897dabf0f6f3577532b15bfe4618191ced27828b"
+libc = "musl"
+os = "linux"
+
+    [[ORC.download]]
+    sha256 = "bcd2cde71eb55766312052d998f91d86f4904c13d8e9cda0e36a2ae767b5a2cc"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.x86_64-linux-musl.tar.gz"
+[[ORC]]
+arch = "x86_64"
+git-tree-sha1 = "248a9f8dc07e5555fac3d73ea85f416f9ff0433a"
+os = "freebsd"
+
+    [[ORC.download]]
+    sha256 = "6b56a4ab7daf8f130b08c96f659e68142e2bb4e9a6015519fb89ef7587c16b19"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[ORC]]
+arch = "x86_64"
+git-tree-sha1 = "acfb7b1ea79d06a91617751fb1d35b51ef3a97e0"
+os = "windows"
+
+    [[ORC.download]]
+    sha256 = "f7a6fbf672d686655399813ad0216a83dad863b3cfd08965da53cdbd959869f1"
+    url = "https://github.com/JuliaBinaryWrappers/ORC_jll.jl/releases/download/ORC-v4.31.0+0/ORC.v4.31.0.x86_64-w64-mingw32.tar.gz"

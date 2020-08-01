@@ -1,0 +1,10 @@
+name = "ORC_jll"
+uuid = "fb41591b-4dee-5dae-bf56-d83afd04fbc0"
+version = "4.31.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
